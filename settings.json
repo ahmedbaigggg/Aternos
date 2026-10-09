@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "batpixel.aternos.me",
-    "port": 0,
+    "port": 30928,
     "version": "1.20.1",
     "try-creative": false
   },
